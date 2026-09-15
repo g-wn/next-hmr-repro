@@ -1,0 +1,13 @@
+{
+  "name": "next-hmr-repro",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack --hostname 127.0.0.1",
+    "dev:webpack": "next dev --webpack --hostname 127.0.0.1"
+  },
+  "dependencies": {
+    "next": "16.4.0-canary.31",
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  }
+}
