@@ -17,4 +17,4 @@ For comparison, stop the server and run `npm run dev:webpack`. Repeat from
 step 1; the first edit updates correctly.
 
 Reproduced with Next.js 16.3.5 and 16.4.0-canary.31, React 19.2.6,
-Node 24.14.1, and Arc on macOS. This repo pins the canary version.
+Node 24.14.1, and Arc and Chrome on macOS. This repo pins the canary version.
